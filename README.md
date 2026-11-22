@@ -1,7 +1,7 @@
 # 🧾 TaxKit — Smart Tax & Financial Tools
 
 <p align="center">
-  <img src="https://taxkit.site/favicon.ico" width="85" alt="TaxKit Logo">
+  <img src=""Downloads.taxkit.svg"" width="85" alt="TaxKit Logo">
 </p>
 
 <h2 align="center">Simplifying Tax & Financial Tasks</h2>
