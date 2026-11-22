@@ -1,42 +1,71 @@
-# TaxKit — Smart Tax & Financial Tools
+# 🧾 TaxKit — Smart Tax & Financial Tools
 
-A modern web-based platform designed to simplify tax calculations and financial tasks through accessible online tools.
+<p align="center">
+  <a href="https://taxkit.site">
+    <img src="https://taxkit.site/favicon.ico" width="80" alt="TaxKit Logo">
+  </a>
+</p>
 
-## 🌐 Live Website
-https://taxkit.site
+<h2 align="center">Simplifying Tax & Financial Tasks</h2>
 
-## 📌 About the Project
-TaxKit is a web platform developed to provide users with practical tax-related tools and useful financial utilities through a clean, responsive, and user-friendly interface.
+<p align="center">
+  A modern web platform offering accessible tax-related tools and financial utilities.
+</p>
+
+<p align="center">
+  <a href="https://taxkit.site">🌐 Visit Live Website</a>
+</p>
+
+---
+
+## 📌 About TaxKit
+
+TaxKit is a modern web-based platform designed to make tax-related tasks and financial calculations easier through a clean, accessible, and user-friendly experience.
 
 ## ✨ Key Features
-- Modern and responsive UI
-- Online tax and financial tools
-- Easy-to-use interface
-- Fast and accessible experience
+
+- Responsive and modern interface
+- Tax-related online tools
+- Financial utility tools
+- Easy navigation
+- Mobile-friendly experience
 - Organized tool categories
-- Mobile-friendly design
 
-## 🛠️ Technologies
-React.js | Vite | JavaScript | CSS
+## 🖥️ Screenshots
 
-Update this technology list according to the actual project stack.
+### Homepage
+![TaxKit Homepage](screenshots/taxkit-homepage.png)
+
+### Tools Page
+![TaxKit Tools](screenshots/taxkit.png)
+
+### Mobile View
+![TaxKit Mobile](taxkit-about.png)
+
+## 🛠️ Technology Stack
+
+Add the actual technologies used in this project:
+
+- React.js
+- Vite
+- JavaScript
+- CSS
+
+## 🌐 Live Website
+
+**[Explore TaxKit](https://taxkit.site)**
 
 ## 👩‍💻 Developer
+
 **Memona Muneer**  
 Full-Stack Web Developer
 
-Development Brand: She Builds Dev
+Development Brand: **She Builds Dev**
 
 📧 shebuilds.dev@gmail.com
 
-🌐 https://taxkit.site
+---
 
-### 💼 Interested in Working Together?
-
-Have a project idea or need a professional website?
-
-Let's build something amazing together!
-
-📧 shebuilds.dev@gmail.com
-
-**Developed by Memona Muneer | She Builds Dev**
+<p align="center">
+  <b>Building Digital Experiences That Matter.</b>
+</p>
